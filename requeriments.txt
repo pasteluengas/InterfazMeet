@@ -1,0 +1,6 @@
+# Autor: Nicolas Luengas
+# 15/05/2026
+# Requerimientos para el Asistente de Google Meet
+
+pyserial
+keyboard
