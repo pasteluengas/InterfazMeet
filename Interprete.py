@@ -43,7 +43,7 @@ if __name__ == '__main__':
     if trycon():
             messagebox.showinfo("Asistente de Google Meet", "Dispositivo detectado, ejecutandose en segundo plano.")
     else:
-            messagebox.showinfo("Asistente de Google Meet", "Ocurrio un error, intentelo de nuevo o no lo intente y no lo use lo.")
+            messagebox.showinfo("Asistente de Google Meet", "Ocurrio un error, intentelo de nuevo (o no lo intente, y no lo use).")
             exit()
 while True:
         value = read() 
